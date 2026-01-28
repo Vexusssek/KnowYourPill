@@ -1,0 +1,201 @@
+Lek: Tramadol.
+Substancja: tramadol hydrochloride.
+Ostrzeżenie: Ryzyko depresji oddechowej, szczególnie przy jednoczesnym stosowaniu z alkoholem lub benzodiazepinami. Może powodować uzależnienie, drgawki oraz zespół serotoninowy. Nie stosować w ciąży bez konsultacji.
+
+Lek: Paracetamol.
+Substancja: paracetamol.
+Ostrzeżenie: Przedawkowanie grozi ciężkim uszkodzeniem wątroby. Nie łączyć z alkoholem. Maksymalna dawka dobowa dla dorosłego to 4 g.
+
+Lek: Ibuprofen.
+Substancja: ibuprofen.
+Ostrzeżenie: Może podrażniać żołądek, powodować krwawienia z przewodu pokarmowego oraz uszkodzenie nerek. Ostrożnie u pacjentów z nadciśnieniem i astmą aspirynową.
+
+Lek: Ketoprofen.
+Substancja: ketoprofen.
+Ostrzeżenie: Wysokie ryzyko podrażnienia żołądka i krwawień, szczególnie u osób starszych.
+
+Lek: Diclofenac.
+Substancja: diclofenac.
+Ostrzeżenie: Ryzyko sercowo-naczyniowe oraz krwawień z przewodu pokarmowego.
+
+Lek: Aspirin.
+Substancja: acetylsalicylic acid.
+Ostrzeżenie: Ryzyko krwawień. Nie stosować u dzieci (ryzyko zespołu Reye’a).
+
+Lek: Metamizol.
+Substancja: metamizole sodium.
+Ostrzeżenie: Rzadkie, ale ciężkie ryzyko agranulocytozy.
+
+Lek: Morphine.
+Substancja: morphine sulfate.
+Ostrzeżenie: Bardzo wysokie ryzyko depresji oddechowej i uzależnienia.
+
+Lek: Codeine.
+Substancja: codeine phosphate.
+Ostrzeżenie: Ryzyko depresji oddechowej, szczególnie u szybkich metabolizerów CYP2D6.
+
+Lek: Xanax.
+Substancja: alprazolam.
+Ostrzeżenie: Silne działanie uzależniające. Powoduje senność i zaburzenia koordynacji. Bezwzględny zakaz łączenia z alkoholem. Nagłe odstawienie grozi napadami drgawkowymi.
+
+Lek: Diazepam.
+Substancja: diazepam.
+Ostrzeżenie: Senność, uzależnienie, depresja ośrodkowego układu nerwowego.
+
+Lek: Lorazepam.
+Substancja: lorazepam.
+Ostrzeżenie: Ryzyko tolerancji, uzależnienia i zaburzeń koncentracji.
+
+Lek: Zolpidem.
+Substancja: zolpidem.
+Ostrzeżenie: Zaburzenia świadomości, amnezja następcza, ryzyko uzależnienia.
+
+Lek: Zopiclone.
+Substancja: zopiclone.
+Ostrzeżenie: Senność dzienna, zaburzenia koncentracji, uzależnienie.
+
+Lek: Sertralina.
+Substancja: sertraline.
+Ostrzeżenie: Nudności, bezsenność, ryzyko zespołu serotoninowego.
+
+Lek: Fluoxetine.
+Substancja: fluoxetine.
+Ostrzeżenie: Długi okres półtrwania, liczne interakcje lekowe.
+
+Lek: Escitalopram.
+Substancja: escitalopram.
+Ostrzeżenie: Ryzyko wydłużenia odstępu QT.
+
+Lek: Venlafaxine.
+Substancja: venlafaxine.
+Ostrzeżenie: Może podnosić ciśnienie krwi, ryzyko zespołu serotoninowego.
+
+Lek: Duloxetine.
+Substancja: duloxetine.
+Ostrzeżenie: Ryzyko hepatotoksyczności oraz zespołu serotoninowego.
+
+Lek: Amitriptyline.
+Substancja: amitriptyline.
+Ostrzeżenie: Ryzyko arytmii i ciężkiej toksyczności w przedawkowaniu.
+
+Lek: Quetiapine.
+Substancja: quetiapine.
+Ostrzeżenie: Senność, spadki ciśnienia, przyrost masy ciała.
+
+Lek: Olanzapine.
+Substancja: olanzapine.
+Ostrzeżenie: Zespół metaboliczny, hiperglikemia.
+
+Lek: Risperidone.
+Substancja: risperidone.
+Ostrzeżenie: Objawy pozapiramidowe, hiperprolaktynemia.
+
+Lek: Pregabalina.
+Substancja: pregabalin.
+Ostrzeżenie: Senność, zawroty głowy, potencjał uzależniający.
+
+Lek: Gabapentin.
+Substancja: gabapentin.
+Ostrzeżenie: Depresja OUN, senność.
+
+Lek: Bisoprolol.
+Substancja: bisoprolol fumarate.
+Grupa: beta-bloker.
+Ostrzeżenie: Może znacznie obniżać tętno i ciśnienie krwi. Ostrożnie u astmatyków.
+
+Lek: Metoprolol.
+Substancja: metoprolol.
+Grupa: beta-bloker.
+Ostrzeżenie: Bradykardia, zmęczenie, zawroty głowy.
+
+Lek: Diltiazem.
+Substancja: diltiazem hydrochloride.
+Grupa: bloker kanału wapniowego.
+Ostrzeżenie: Ryzyko bradykardii i bloków serca, szczególnie przy łączeniu z beta-blokerami.
+
+Lek: Amlodipine.
+Substancja: amlodipine.
+Ostrzeżenie: Obrzęki kończyn dolnych, bóle głowy.
+
+Lek: Ramipril.
+Substancja: ramipril.
+Ostrzeżenie: Kaszel, hiperkaliemia, niedociśnienie.
+
+Lek: Losartan.
+Substancja: losartan.
+Ostrzeżenie: Niedociśnienie, hiperkaliemia.
+
+Lek: Furosemide.
+Substancja: furosemide.
+Ostrzeżenie: Odwodnienie, zaburzenia elektrolitowe.
+
+Lek: Metformin.
+Substancja: metformin.
+Ostrzeżenie: Rzadkie ryzyko kwasicy mleczanowej.
+
+Lek: Omeprazole.
+Substancja: omeprazole.
+Ostrzeżenie: Długotrwałe stosowanie może prowadzić do niedoborów witamin i minerałów.
+
+Lek: Levothyroxine.
+Substancja: levothyroxine sodium.
+Ostrzeżenie: Objawy nadczynności tarczycy przy przedawkowaniu.
+
+Lek: Sildenafil.
+Substancja: sildenafil.
+Ostrzeżenie: Spadki ciśnienia, bóle głowy.
+
+Lek: Doreta.
+Substancja: tramadol + paracetamol.
+Ostrzeżenie: Lek złożony. Należy uważać, aby nie przekroczyć maksymalnej dawki paracetamolu z innych leków. Ryzyko senności, zawrotów głowy i zespołu serotoninowego. Sok grejpfrutowy może zwiększać stężenie tramadolu.
+
+Interakcja: Tramadol + Alkohol.
+Ostrzeżenie: Bardzo wysokie ryzyko depresji oddechowej i utraty przytomności.
+
+Interakcja: Tramadol + Benzodiazepiny.
+Ostrzeżenie: Skrajnie zwiększone ryzyko depresji ośrodkowego układu nerwowego i oddechu.
+
+Interakcja: Tramadol + SSRI/SNRI/TLPD.
+Ostrzeżenie: Ryzyko zespołu serotoninowego.
+
+Interakcja: Paracetamol + Alkohol.
+Ostrzeżenie: Ciężkie uszkodzenie wątroby.
+
+Interakcja: Ibuprofen + SSRI.
+Ostrzeżenie: Zwiększone ryzyko krwawień z przewodu pokarmowego.
+
+Interakcja: Beta-bloker + Bloker kanału wapniowego.
+Ostrzeżenie: Poważne ryzyko nadmiernego zwolnienia akcji serca, niedociśnienia i bloków serca. Wymagana ścisła kontrola kardiologiczna.
+
+Interakcja: Sildenafil + Azotany.
+Ostrzeżenie: Groźne, nagłe niedociśnienie.
+
+Używka: Alkohol.
+Ostrzeżenie: Nasilenie depresji OUN. W połączeniu z opioidami, benzodiazepinami i pregabaliną znacznie zwiększa ryzyko zgonu.
+
+Używka: Nikotyna.
+Ostrzeżenie: Przyspiesza metabolizm wielu leków i zmniejsza ich skuteczność.
+
+Używka: Kofeina.
+Ostrzeżenie: Może nasilać lęk, bezsenność i kołatanie serca.
+
+Używka: Marihuana (THC).
+Ostrzeżenie: Nasilenie działań niepożądanych leków psychotropowych, zaburzenia koncentracji.
+
+Używka: CBD.
+Ostrzeżenie: Hamowanie enzymów CYP450 i wzrost stężenia wielu leków.
+
+Używka: Amfetamina.
+Ostrzeżenie: Wysokie ryzyko nadciśnienia i arytmii.
+
+Używka: Kokaina.
+Ostrzeżenie: Zawał, udar, ciężkie arytmie.
+
+Używka: MDMA.
+Ostrzeżenie: Zespół serotoninowy, hipertermia.
+
+Używka: Sok grejpfrutowy.
+Ostrzeżenie: Hamowanie metabolizmu wielu leków (CYP3A4), wzrost ryzyka toksyczności.
+
+Używka: Napoje energetyczne.
+Ostrzeżenie: Przeciążenie układu sercowo-naczyniowego, interakcje z beta-blokerami.
