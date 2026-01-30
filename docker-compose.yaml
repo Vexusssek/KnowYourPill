@@ -10,11 +10,11 @@ services:
 
   frontend:
     image: python:3.11-slim
-    container_name: praicer_frontend
+    container_name: knowyourpill_frontend
+    command: streamlit run frontend  --server.port=8501 --server.address=0.0.0.0
     working_dir: /app
     volumes:
       - .:/app
-    command: streamlit run frontend  --server.port=8501 --server.address=0.0.0.0"
     ports:
       - "8501:8501"
     depends_on:
