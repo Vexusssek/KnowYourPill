@@ -9,6 +9,7 @@ services:
       - .env.local
 
   frontend:
+    build: .
     image: python:3.11-slim
     container_name: knowyourpill_frontend
     command: streamlit run frontend  --server.port=8501 --server.address=0.0.0.0
