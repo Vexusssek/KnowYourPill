@@ -12,7 +12,7 @@ services:
     build: .
     image: python:3.11-slim
     container_name: knowyourpill_frontend
-    command: streamlit run frontend  --server.port=8501 --server.address=0.0.0.0
+    command: streamlit run frontend.py  --server.port=8501 --server.address=0.0.0.0
     working_dir: /app
     volumes:
       - .:/app
