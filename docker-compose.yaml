@@ -4,7 +4,7 @@ services:
   backend:
     build: .
     container_name: knowyourpill_backend
-    command: uvicorn main:app --host 0.0.0.0 --8000 --reload
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
     volumes: 
       - .:/app
     ports:
